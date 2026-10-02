@@ -1,0 +1,239 @@
+[
+  {
+    "year": 2026,
+    "title": "L2DiffM: LLM-Guided Variational Expert Diffusion for Target-Aware 3D Molecular Generation",
+    "authors": "Jiahao Liu, Yongxuan Lai, Jie Xia, Fan Yang",
+    "venue": "IEEE Journal of Biomedical and Health Informatics · Early Access, pp. 1–13 (2026)",
+    "url": "https://doi.org/10.1109/JBHI.2026.3737835",
+    "status": "published",
+    "note_en": "Published online September 30, 2026.",
+    "note_zh": "在线发表日期：2026 年 9 月 30 日。",
+    "links": [
+      [
+        "IEEE Xplore",
+        "https://ieeexplore.ieee.org/document/11715883"
+      ]
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "PTAS for Euclidean travelling salesman problem with soft time windows",
+    "authors": "Liang Song, Songsong Wu, Yongxuan Lai, Chunyan Liu, Hejiao Huang, Hongwei Du",
+    "venue": "Journal of Combinatorial Optimization, 51, 13 (2026)",
+    "status": "published",
+    "url": "https://doi.org/10.1007/s10878-025-01387-z"
+  },
+  {
+    "year": 2025,
+    "title": "Enhancing Removal Reductions for Finding Minimum Weight Vertex Covers",
+    "authors": "Yi Fan, Quan Yu, Kaile Su, Yongxuan Lai, Longin Jan Latecki",
+    "venue": "IEEE 2nd International Conference on Electronics, Communications and Intelligent Science (ECIS), 2025",
+    "status": "published",
+    "url": "https://doi.org/10.1109/ECIS65594.2025.11086670",
+    "links": [
+      [
+        "Author PDF",
+        "https://cis.temple.edu/~latecki/Papers/YiFan2025.pdf"
+      ]
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "FineDiffusion: scaling up diffusion models for fine-grained image generation with 10,000 classes",
+    "authors": "Ziying Pan, Kun Wang, Gang Li, Feihong He, Yongxuan Lai",
+    "venue": "Applied Intelligence, 55, 309 (2025)",
+    "status": "published",
+    "url": "https://doi.org/10.1007/s10489-024-06215-1",
+    "cv_number": 10,
+    "links": [
+      [
+        "Project",
+        "https://finediffusion.github.io/"
+      ],
+      [
+        "Code",
+        "https://github.com/FineDiffusion/FineDiffusion/"
+      ]
+    ]
+  },
+  {
+    "year": 2024,
+    "title": "A Multi-Agent Service Migration Algorithm for Mobile Edge Computing with Diversified Services",
+    "authors": "Jining Chen, Linbo Liao, Yongxuan Lai, Liang Song, Fan Yang",
+    "venue": "APWeb-WAIM 2024 · Lecture Notes in Computer Science, 14964",
+    "status": "published",
+    "url": "https://doi.org/10.1007/978-981-97-7241-4_22",
+    "cv_number": 15
+  },
+  {
+    "year": 2023,
+    "title": "Online computation offloading with double reinforcement learning algorithm in mobile edge computing",
+    "authors": "Linbo Liao, Yongxuan Lai, Fan Yang, Wenhua Zeng",
+    "venue": "Journal of Parallel and Distributed Computing, 171: 28–39 (2023)",
+    "status": "published",
+    "url": "https://doi.org/10.1016/j.jpdc.2022.09.006",
+    "cv_number": 6
+  },
+  {
+    "year": 2022,
+    "title": "Data-Driven Flexible Vehicle Scheduling and Route Optimization",
+    "authors": "Yongxuan Lai, Fan Yang, Ge Meng, Wei Lu",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 23(12): 23099–23113 (2022)",
+    "status": "published",
+    "url": "https://doi.org/10.1109/TITS.2022.3204644",
+    "cv_number": 2
+  },
+  {
+    "year": 2022,
+    "title": "Optimized Large-Scale Road Sensing Through Crowdsourced Vehicles",
+    "authors": "Yongxuan Lai, Yifan Xu, Duojian Mai, Yi Fan, Fan Yang",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 2022",
+    "status": "published",
+    "url": "https://doi.org/10.1109/TITS.2022.3147211",
+    "cv_number": 3
+  },
+  {
+    "year": 2021,
+    "title": "An Adaptive Robust Semi-supervised Clustering Framework Using Weighted Consensus of Random k-Means Ensemble",
+    "authors": "Yongxuan Lai, Songyao He, Zhijie Lin, Fan Yang, Qifeng Zhou, Xiaofang Zhou",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering, 33(5), 2021",
+    "status": "published",
+    "cv_number": 1
+  },
+  {
+    "cv_number": 4,
+    "year": 2022,
+    "title": "Utility-Based Matching of Vehicles and Hybrid Requests on Rider Demand Responsive Systems",
+    "authors": "Yongxuan Lai, Shipeng Yang, Anshu Xiong, Fan Yang, Lei Li, Xiaofang Zhou",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 23(2): 1058–1072 (2022)",
+    "status": "published"
+  },
+  {
+    "cv_number": 5,
+    "year": 2019,
+    "title": "Urban Traffic Coulomb’s Law: A New Approach for Taxi Route Recommendation",
+    "authors": "Yongxuan Lai, Zheng Lv, Kuan-Ching Li, Minghong Liao",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems, 20(8): 3024–3037 (2019)",
+    "status": "published"
+  },
+  {
+    "cv_number": 7,
+    "year": 2020,
+    "title": "Bus Arrival Time Prediction Algorithm Based on Spatio-temporal Correlation Attribute Model",
+    "authors": "Yongxuan Lai, Lu Zhang, Fan Yang, Wei Lu, Tian Wang",
+    "venue": "Journal of Software, 31(3): 648–662 (2020, in Chinese)",
+    "status": "published",
+    "title_zh": "基于时空相关属性模型的公交到站时间预测算法",
+    "url": "https://doi.org/10.13328/j.cnki.jos.005901"
+  },
+  {
+    "cv_number": 8,
+    "year": 2022,
+    "title": "A Self-Distillation Approach via Entropy Transfer for Scene Text Detection",
+    "authors": "Jianwei Chen, Fan Yang, Yongxuan Lai",
+    "venue": "Acta Automatica Sinica, 2022 (in Chinese)",
+    "status": "published",
+    "title_zh": "一种基于信息熵迁移的文本检测模型自蒸馏方法"
+  },
+  {
+    "cv_number": 9,
+    "year": 2019,
+    "title": "Efficient Local Search for Minimum Dominating Sets in Large Graphs",
+    "authors": "Yi Fan, Yongxuan Lai, Chengqian Li, Nan Li, Zongjie Ma, Jun Zhou, Longin Jan Latecki, Kaile Su",
+    "venue": "International Conference on Database Systems for Advanced Applications (DASFAA), 2019",
+    "status": "published"
+  },
+  {
+    "cv_number": 11,
+    "year": 2019,
+    "title": "CASQ: Adaptive and Cloud-assisted Query Processing in Vehicular Sensor Networks",
+    "authors": "Yongxuan Lai, Lu Zhang, Fan Yang, Zheng Lv, Tian Wang, Kuan-Ching Li",
+    "venue": "Future Generation Computer Systems, 94: 237–249 (2019)",
+    "status": "published"
+  },
+  {
+    "cv_number": 12,
+    "year": 2019,
+    "title": "Efficient Data Request Answering in Vehicular Ad-hoc Networks Based on Fog Nodes and Filters",
+    "authors": "Yongxuan Lai, Hailin Lin, Fan Yang, Tian Wang",
+    "venue": "Future Generation Computer Systems, 93: 130–142 (2019)",
+    "status": "published"
+  },
+  {
+    "cv_number": 13,
+    "year": 2024,
+    "title": "Temporal Coverage Optimization for Epoch-based Vehicular Crowdsensing Recruitment",
+    "authors": "Ziying Pan, Yongxuan Lai, Yi Fan, Yiling Huang, Liang Song, Fan Yang",
+    "venue": "IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024",
+    "status": "published"
+  },
+  {
+    "cv_number": 14,
+    "year": 2025,
+    "title": "MASR: Efficient Multi-attention Network For Single Image Super-Resolution",
+    "authors": "Tao Gong, Zihao Jian, Honghao Wu, Yongxuan Lai, Liang Song",
+    "venue": "ICONIP 2024 · Lecture Notes in Computer Science, 15293: 283–296 (proceedings published in 2025)",
+    "status": "published",
+    "note_en": "Conference held in 2024; proceedings published in 2025.",
+    "note_zh": "会议年份为 2024，论文集出版年份为 2025。",
+    "url": "https://doi.org/10.1007/978-981-96-6596-9_20"
+  },
+  {
+    "cv_number": 16,
+    "year": 2019,
+    "title": "Privacy-aware Query Processing in Vehicular Ad-hoc Networks",
+    "authors": "Yongxuan Lai, Yifan Xu, Fan Yang, Wei Lu, Quan Yu",
+    "venue": "Ad Hoc Networks, 91 (2019)",
+    "status": "published"
+  },
+  {
+    "cv_number": 17,
+    "year": 2014,
+    "title": "Priority-Based Query Forwarding and Processing Algorithm in Opportunistic Wireless Sensor Network",
+    "authors": "Yongxuan Lai, Ziyu Lin",
+    "venue": "Journal on Communications, 35(3): 85–93 (2014, in Chinese)",
+    "status": "published"
+  },
+  {
+    "cv_number": 18,
+    "year": 2018,
+    "title": "Distributed Public Vehicle System Based on Fog Nodes and Vehicular Sensing",
+    "authors": "Yongxuan Lai, Fan Yang, Lu Zhang, Ziyu Lin",
+    "venue": "IEEE Access, 6: 22011–22024 (2018)",
+    "status": "published"
+  },
+  {
+    "cv_number": 19,
+    "year": 2015,
+    "title": "Adaptive Data Gathering in Mobile Sensor Networks Using Speedy Mobile Elements",
+    "authors": "Yongxuan Lai, Jinshan Xie, Ziyu Lin, Tian Wang, Minghong Liao",
+    "venue": "Sensors, 15(9): 23218–23248 (2015)",
+    "status": "published",
+    "url": "https://doi.org/10.3390/s150923218"
+  },
+  {
+    "cv_number": 20,
+    "year": 2018,
+    "title": "Fog-Based Two-Phase Event Monitoring and Data Gathering in Vehicular Sensor Networks",
+    "authors": "Yongxuan Lai, Fan Yang, Jinsong Su, Qifeng Zhou, Tian Wang, Lu Zhang, Yifan Xu",
+    "venue": "Sensors, 18(1): 82 (2018)",
+    "status": "published"
+  },
+  {
+    "cv_number": 21,
+    "year": 2016,
+    "title": "Data gathering and offloading in delay tolerant mobile networks",
+    "authors": "Yongxuan Lai, Xing Gao, Minghong Liao, Ziyu Lin, Haiying Zhang",
+    "venue": "Wireless Networks, 22(3): 959–973 (2016)",
+    "status": "published"
+  },
+  {
+    "year": 2026,
+    "title": "DBM-Bid: Dual-Branch Modulated Bidding for Offline Constrained Auto-Bidding",
+    "authors": "Zijie Bian, Ningyuan Zhao, Yongxuan Lai, Fan Yang",
+    "venue": "IEEE International Conference on Data Mining (ICDM 2026) · Accepted",
+    "status": "accepted",
+    "note_en": "Accepted for ICDM 2026.",
+    "note_zh": "已被 ICDM 2026 录用。"
+  }
+]

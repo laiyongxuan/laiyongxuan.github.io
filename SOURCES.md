@@ -2,6 +2,18 @@
 
 检索日期：2026-10-02。
 
+## 本次更新：现单位、双语与完整简历论文
+
+- 当前单位及邮箱以本人本次明确更新为准：中国人民大学信息学院；`laiyongxuan@gmail.com`。厦门大学任职结束于 2026 年 9 月。没有推断新单位的具体入职日、职称或行政职务；原厦大项目按历史项目展示。
+- 信息学院英文名称采用官方页面的 School of Information, Renmin University of China：https://info.ruc.edu.cn/Home/News/SchoolNews/c9f131b6667740e3b3c4f03efdc9d662.htm 。
+- 从原简历第 9–10 页补齐全部 21 个编号条目。`publications.json` 中的 `cv_number` 与简历一一对应；构建器断言无缺失、无重复。此前新增 PTAS、ECIS 论文保留。
+- DBM-Bid: Dual-Branch Modulated Bidding for Offline Constrained Auto-Bidding：本人进一步明确确认已录用 ICDM 2026。作者 Zijie Bian, Ningyuan Zhao, Yongxuan Lai, Fan Yang。以 Accepted 标注，未虚构 DOI、页码或正式出版日期；投稿编号不公开。
+- L2DiffM: LLM-Guided Variational Expert Diffusion for Target-Aware 3D Molecular Generation：本人提供 IEEE 引用信息。Jiahao Liu, Yongxuan Lai, Jie Xia, Fan Yang；IEEE Journal of Biomedical and Health Informatics，Early Access，1–13 页，2026-09-30 在线发表。https://ieeexplore.ieee.org/document/11715883 ，DOI https://doi.org/10.1109/JBHI.2026.3737835 。直接元数据抓取受限，随后已通过浏览器读取 IEEE 正式页面，核实标题、作者、期刊、日期、页码与 DOI 均与本人提供的信息一致。
+- MASR：Springer 正式出版页 https://link.springer.com/chapter/10.1007/978-981-96-6596-9_20 ，首次在线 2025-06-08，LNCS 15293，283–296 页；会议名仍为 ICONIP 2024，按出版年归入 2025。
+- 公交到站预测论文：期刊官网 https://jos.org.cn/html/2020/3/5901.htm ，DOI 10.13328/j.cnki.jos.005901。补正简历漏列的第二作者张璐，采用作者顺序 Yongxuan Lai, Lu Zhang, Fan Yang, Wei Lu, Tian Wang；卷页为 31(3): 648–662。
+
+以下为最初建站时的历史核验记录，涉及厦门大学的“现任”信息已由上述本人更新覆盖。
+
 ## 个人、科研、教学
 
 - 用户提供的《赖永炫简历-2025-R(2).pdf》：教育及工作经历、项目、教材、课程、奖励。原文件未复制到仓库。
