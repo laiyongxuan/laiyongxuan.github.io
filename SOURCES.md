@@ -51,3 +51,7 @@
 ## 人大教授职称
 
 本人明确确认在中国人民大学职称为教授；已在中英文主页的姓名下方、简介及现任经历中标注教授 / Professor。
+
+## 人大校徽
+
+校徽取自中国人民大学官网学校标志页面：https://www.ruc.edu.cn/xuexiaobiaozhi1924747550510977025.html 。原始图片：https://www.ruc.edu.cn/template/1/out/imgs/VI/1.png ，本地保存为 assets/ruc-emblem.png，保留原图，通过 CSS 展示中央红色圆形校徽；点击前往人大官网。中英文主页同步使用。
