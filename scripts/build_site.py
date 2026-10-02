@@ -20,7 +20,7 @@ def bibliography(lang):
     zh=lang=='zh'
     published=[p for p in papers if p['status'] in ('published','accepted')]
     years=sorted({p['year'] for p in published},reverse=True)
-    s='<section id="publications"><div class="section-heading"><div><p class="eyebrow">PUBLICATIONS BY YEAR</p><h2>'+('学术论文' if zh else 'Publications')+'</h2></div><p>'+('按年度整理 · 更新于 2026.10.02' if zh else 'By year · Updated October 2, 2026')+'</p></div>'
+    s='<section id="publications"><div class="section-heading"><div><p class="eyebrow">PUBLICATIONS BY YEAR</p><h2>'+('学术论文' if zh else 'Selected Publications')+'</h2></div><p>'+('按年度整理 · 更新于 2026.10.02' if zh else 'By year · Updated October 2, 2026')+'</p></div>'
     s+='<nav class="year-nav" aria-label="'+('论文年份' if zh else 'Publication years')+'">'+''.join(f'<a href="#papers-{y}">{y}</a>' for y in years)+'</nav>'
     s+='<p class="section-note">'+('包含所提供简历中逐条列出的全部 21 篇论文，并保留新增成果。按出版年份归档；会议年份与出版年份不同时另作说明。' if zh else 'Includes all 21 papers individually listed in the supplied CV, together with additional work. Grouped by publication year; conference years are noted where different.')+'</p>'
     for y in years:
