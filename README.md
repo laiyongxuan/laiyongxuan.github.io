@@ -1,5 +1,11 @@
 # 赖永炫 · 学术主页
 
+网站地址：https://laiyongxuan.github.io/
+
+GitHub 仓库：https://github.com/laiyongxuan/laiyongxuan.github.io
+
+当前发布源为 `master` 分支的根目录；更新该分支后 GitHub Pages 会自动部署。
+
 适用于 GitHub Pages 的纯静态学术主页。无构建依赖、无付费服务、无追踪脚本。页面内容直接位于 `index.html`，样式位于 `style.css`。
 
 ## 预览
